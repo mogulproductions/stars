@@ -1,4 +1,6 @@
-# starsStars Token
+# stars
+
+Stars Token
 The Stars token is an ERC20 token used in Mogul Productions as an in-app currency, access token, and to vote for movie funding and other governance procedures.
 
 Functionality
