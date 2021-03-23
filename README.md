@@ -18,3 +18,5 @@ A contract that sells Stars to users with multiple tiers for purchase.
 - Setting tiers: When changing a tier, if the new tier allows for the sale of more Stars than the tier currently does, the contract transfers the extra tokens it needs from the caller. Conversely, if the new tier allows for the sale of fewer Stars, the smart contract sends the caller the stars that it no longer needs.
 - Withdrawing from tiers: reducePassesFromTiers reduces the specified amounts of access passes from each tier, and sends the tokens it no longer needs to the withdrawWallet. removeTiers does the same, except it withdraws all access passes from the specified tiers.
 
+Find audit here: https://docsend.com/view/cmh5esuvv9ngnrkv
+
